@@ -1,0 +1,21 @@
+// ===========utils===========
+
+@import './utils/variables';
+@import './utils/visually-hidden';
+
+// ===========base===========
+
+@import './base/common';
+@import './base/container';
+@import './base/main-btn';
+
+// ===========components===========
+@import './components/header';
+// @import './components/headerLibrary';
+@import './components/gallery';
+@import './components/footer';
+@import './components/modal';
+@import './components/pagination';
+@import './components/spinner';
+@import './components/btnUp';
+@import './components/notifications';
